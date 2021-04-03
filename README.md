@@ -21,7 +21,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 ## Getting Started
 
-1. Set-up the DRLND enviroment (see Dependencies section below)
+1. Set-up the DRLND enviroment (see [Dependencies](#Dependencies) section below)
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
